@@ -1,5 +1,5 @@
 ### Hello Friend! 👋
-### My name is **Renuá Meireles Almeida** and i love açaí 😉!
+### My name is **Renuá Meireles Almeida** and I love açaí 😉!
 
 
 ### About me 🙎‍♂️
