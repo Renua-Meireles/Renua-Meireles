@@ -9,7 +9,7 @@
 - 🤝 I’m looking to collaborate on **Genetic Algorithm Projects** and **Frameworks**;
 - ❤️ Loves: 
   - ⚙️Computational Intelligence, more precisely Evolutionary Algorithms and Machine Learning;
-  - 🐍Python language programming;
+  - 🐍Python programming language;
   - 🧐The feeling when learning new Skills;
 
 
